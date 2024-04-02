@@ -1,4 +1,4 @@
 {
   "Email": "$${{ secrets.STRAVA_USER }}",
-  "Password": "$${{ secrets.STRAVA_PASSWORD }}""
+  "Password": "$${{ secrets.STRAVA_PASSWORD }}"
 }
