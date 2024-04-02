@@ -14,6 +14,7 @@ With [git](https://git-scm.com/downloads), [golang](https://go.dev/) and [make](
 git clone https://github.com/patrickziegler/strava-heatmap-proxy
 cd strava-heatmap-proxy
 INSTALL_PREFIX=~/.local/bin make
+cp config/strava-heatmap/config.json ~/.config/strava-heatmap-proxy/config.json
 ```
 
 ### :wrench: Configuration
